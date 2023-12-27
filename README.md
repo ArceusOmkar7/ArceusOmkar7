@@ -13,7 +13,7 @@ Learning-Coding🔁Learning-Coding
 * 🤝  I'm open to collaborating on interesting projects
 
 ### Skills
-![image](https://github.com/ArceusOmkar7/ArceusOmkar7/assets/68581782/a09952da-0a69-477e-809a-85ae4b3ee3b2) ![image](https://github.com/ArceusOmkar7/ArceusOmkar7/assets/68581782/5ba8bdfb-704f-47e2-b8d0-141f8c404c11) ![image](https://github.com/ArceusOmkar7/ArceusOmkar7/assets/68581782/2d3c2b24-917d-465b-81dc-18628bbf6094) ![image](https://github.com/ArceusOmkar7/ArceusOmkar7/assets/68581782/17346fab-5054-45dc-8432-d115552ee900) ![image](https://github.com/ArceusOmkar7/ArceusOmkar7/assets/68581782/4d1c30fe-7ef8-4868-8f87-07cd81065263)
+![image](https://github.com/ArceusOmkar7/ArceusOmkar7/assets/68581782/a09952da-0a69-477e-809a-85ae4b3ee3b2=40x40) ![image](https://github.com/ArceusOmkar7/ArceusOmkar7/assets/68581782/5ba8bdfb-704f-47e2-b8d0-141f8c404c11=40x40) ![image](https://github.com/ArceusOmkar7/ArceusOmkar7/assets/68581782/2d3c2b24-917d-465b-81dc-18628bbf6094) ![image](https://github.com/ArceusOmkar7/ArceusOmkar7/assets/68581782/17346fab-5054-45dc-8432-d115552ee900=40x40) ![image](https://github.com/ArceusOmkar7/ArceusOmkar7/assets/68581782/4d1c30fe-7ef8-4868-8f87-07cd81065263=40x40)
 
 
 ### Badges
