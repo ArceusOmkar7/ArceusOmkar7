@@ -13,11 +13,11 @@ Learning-Coding🔁Learning-Coding
 * 🤝  I'm open to collaborating on interesting projects
 
 ### Skills
-![HTML](https://github.com/ArceusOmkar7/ArceusOmkar7/blob/main/assets/68581782/a09952da-0a69-477e-809a-85ae4b3ee3b2.png?raw=true =40x40)
-![CSS](https://github.com/ArceusOmkar7/ArceusOmkar7/blob/main/assets/68581782/5ba8bdfb-704f-47e2-b8d0-141f8c404c11.png?raw=true =40x40)
-![JavaScript](https://github.com/ArceusOmkar7/ArceusOmkar7/blob/main/assets/68581782/2d3c2b24-917d-465b-81dc-18628bbf6094.png?raw=true)
-![Python](https://github.com/ArceusOmkar7/ArceusOmkar7/blob/main/assets/68581782/17346fab-5054-45dc-8432-d115552ee900.png?raw=true =40x40)
-![GitHub](https://github.com/ArceusOmkar7/ArceusOmkar7/blob/main/assets/68581782/4d1c30fe-7ef8-4868-8f87-07cd81065263.png?raw=true =40x40)
+<img src="https://github.com/ArceusOmkar7/ArceusOmkar7/blob/main/assets/68581782/a09952da-0a69-477e-809a-85ae4b3ee3b2.png?raw=true" alt="HTML" height="40" width="40">
+<img src="https://github.com/ArceusOmkar7/ArceusOmkar7/blob/main/assets/68581782/5ba8bdfb-704f-47e2-b8d0-141f8c404c11.png?raw=true" alt="CSS" height="40" width="40">
+<img src="https://github.com/ArceusOmkar7/ArceusOmkar7/blob/main/assets/68581782/2d3c2b24-917d-465b-81dc-18628bbf6094.png?raw=true" alt="JavaScript" height="40" width="40">
+<img src="https://github.com/ArceusOmkar7/ArceusOmkar7/blob/main/assets/68581782/17346fab-5054-45dc-8432-d115552ee900.png?raw=true" alt="Python" height="40" width="40">
+<img src="https://github.com/ArceusOmkar7/ArceusOmkar7/blob/main/assets/68581782/4d1c30fe-7ef8-4868-8f87-07cd81065263.png?raw=true" alt="GitHub" height="40" width="40">
 
 
 
