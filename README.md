@@ -16,7 +16,7 @@ Learning-Coding🔁Learning-Coding
 <img src="https://github.com/ArceusOmkar7/ArceusOmkar7/blob/main/assets/68581782/a09952da-0a69-477e-809a-85ae4b3ee3b2.png?raw=true" alt="HTML" height="40" width="40">
 <img src="https://github.com/ArceusOmkar7/ArceusOmkar7/blob/main/assets/68581782/5ba8bdfb-704f-47e2-b8d0-141f8c404c11.png?raw=true" alt="CSS" height="40" width="40">
 <img src="https://github.com/ArceusOmkar7/ArceusOmkar7/blob/main/assets/68581782/2d3c2b24-917d-465b-81dc-18628bbf6094.png?raw=true" alt="JavaScript" height="40" width="40">
-<img src="https://github.com/ArceusOmkar7/ArceusOmkar7/blob/main/assets/68581782/17346fab-5054-45dc-8432-d115552ee900.png?raw=true" alt="Python" height="40" width="40">
+<img src="[https://github.com/ArceusOmkar7/ArceusOmkar7/blob/main/assets/68581782/17346fab-5054-45dc-8432-d115552ee900.png?raw=true](https://media.discordapp.net/attachments/887180576820445195/1189643086716993677/115px-Python-logo-notext.png?ex=659ee876&is=658c7376&hm=da85c2fc58166320957abdda4611c344ee9b1407a94af2b47fac8b72114f9de8&=&format=webp&quality=lossless)" alt="Python" height="40" width="40">
 <img src="https://github.com/ArceusOmkar7/ArceusOmkar7/blob/main/assets/68581782/4d1c30fe-7ef8-4868-8f87-07cd81065263.png?raw=true" alt="GitHub" height="40" width="40">
 
 
